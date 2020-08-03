@@ -40,3 +40,4 @@ Non-linear transformation methods or manifold learning methods are used when the
 
 3. ___t-distributed Stochastic Neighbor Embedding (t-SNE)___: Computes the probability that pairs of data points in the high-dimensional space are related and then chooses a low-dimensional embedding which produce a similar distribution.
 
+_[Link](https://towardsdatascience.com/dimensionality-reduction-toolbox-in-python-9a18995927cd)_
